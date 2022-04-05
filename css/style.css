@@ -1,0 +1,30 @@
+a.navbar-brand{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+a.create-note-btn {
+    padding: 8px !important;
+}
+
+.bg-body {
+    background-color: #fff!important;
+}
+
+.btn-save-post{
+    margin-top: 20px;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
